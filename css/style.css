@@ -1,12 +1,14 @@
 .site_header{
-    height: 150px;
-    background-image: url("./img/pattern.png");
+    height: 100px;
+    background-image: url("../img/pattern.png");
     background-repeat: repeat;
+    background-color: lightblue;
 }
 .logo{
     width: 15%;
+    margin-top: 50px;
 }
-thead{
+table thead{
     background-color: rgb(35, 123, 255);
     color: white;
 }
@@ -18,4 +20,7 @@ tbody>tr{
 }
 .giallo{
     background-color: yellow;
+}
+table{
+    border-spacing: 0px;
 }
