@@ -1,3 +1,10 @@
 .site_header{
     background-image: url("./img/pattern.png");
 }
+thead{
+    background-color: rgb(35, 123, 255);
+    color: white;
+}
+tbody>tr{
+    background-color: lightblue;
+}
