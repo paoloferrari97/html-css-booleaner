@@ -8,3 +8,9 @@ thead{
 tbody>tr{
     background-color: lightblue;
 }
+.grigio{
+    color: grey;
+}
+.giallo{
+    background-color: yellow;
+}
