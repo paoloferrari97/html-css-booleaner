@@ -24,6 +24,9 @@ tbody>tr{
 table{
     border-spacing: 0;
 }
+td{
+    padding: 20px;
+}
 .monitor{
     background-image: url("../img/monitor.jpg");
     background-size: contain;
