@@ -1,12 +1,12 @@
 .site_header{
-    height: 100px;
+    height: 150px;
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
-    background-color: lightblue;
+    background-color: rgb(53, 114, 247);
 }
 .logo{
     width: 15%;
-    margin-top: 50px;
+    margin-top: 90px;
 }
 table thead{
     background-color: rgb(35, 123, 255);
@@ -22,5 +22,21 @@ tbody>tr{
     background-color: yellow;
 }
 table{
-    border-spacing: 0px;
+    border-spacing: 0;
+}
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: white;
+    font-size: 30px;
+}
+.graph{
+    background-image: url("../img/graph.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    color: white;
+    font-size: 30px;
 }
